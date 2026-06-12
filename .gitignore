@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.env
+
+# Data
+data/
+*.csv
+
+# Virtual environment
+venv/
+env/
