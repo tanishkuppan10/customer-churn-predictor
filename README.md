@@ -164,7 +164,7 @@ customers with retention offers before they leave.
 ---
 
 ## 👨‍💻 Author
-**Tanishk Uppan**  
+**Tanish kuppan**  
 3rd Year Engineering Student  
 [GitHub](https://github.com/tanishkuppan10) | 
 [LinkedIn](https://www.linkedin.com/in/tanish-kuppan-56ab2b33b/)
